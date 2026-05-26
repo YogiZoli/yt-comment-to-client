@@ -1,0 +1,10 @@
+{
+  "name": "yt-comment-to-client",
+  "version": "0.2.0",
+  "description": "Automatically replies to YouTube comments containing a keyword with a UTM-tracked landing page link. Logs every reply to Google Sheets. Triggers only when a new video is published.",
+  "author": {
+    "name": "Zoltan Gero",
+    "homepage": "https://www.youtube.com/@ZoltanGero"
+  },
+  "keywords": ["youtube", "comments", "lead-generation", "ghl", "automation"]
+}

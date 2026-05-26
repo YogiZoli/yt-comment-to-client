@@ -1,0 +1,23 @@
+# User-specific runtime files — never commit these
+token.json
+config.json
+last_video_state.json
+
+# Real credentials — included in .plugin release, NOT in source repo
+# Use client_secrets.TEMPLATE.json as reference
+skills/setup/references/client_secrets.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plugin package (built artifact)
+*.plugin
